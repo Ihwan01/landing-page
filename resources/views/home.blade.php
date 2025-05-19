@@ -119,8 +119,8 @@
                             <div class="service-icon mb-4">
                                 <i class="fas fa-blender"></i>
                             </div>
-                            <h4 class="card-title mb-3">Industri Konsentrat Makanan Hewan</h4>
-                            <p class="card-text text-muted">Konsentrat makanan hewan dengan nutrisi lengkap dan proses produksi yang terjamin kualitasnya.</p>
+                            <h4 class="card-title mb-3">Perdagangan Besar Barang</h4>
+                            <p class="card-text text-muted">Perdagangan besar barang bekas dan sisa produksi</p>
                             <a href="#contact" class="btn btn-link text-primary text-decoration-none">Pelajari lebih lanjut <i class="fas fa-arrow-right ms-1"></i></a>
                         </div>
                     </div>
@@ -150,32 +150,24 @@
                                         <tr>
                                             <th>No.</th>
                                             <th>Judul KBLI</th>
-                                            <th>Lokasi Usaha</th>
                                             <th>Jenis Produksi</th>
-                                            <th>Keterangan</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
                                             <td>1</td>
                                             <td>Pergudangan dan Penyimpanan</td>
-                                            <td>Dusun Manggabesar II, Desa/Kelurahan Walahar, Kec. Klari, Kab. Karawang, Provinsi Jawa Barat Kode Pos: 41371</td>
                                             <td>Pergudangan dan Penyimpanan</td>
-                                            <td>Sertifikasi jaminan produk halal difasilitasi BPJPH</td>
                                         </tr>
                                         <tr>
                                             <td>2</td>
                                             <td>Industri Ransum Makanan Hewan</td>
-                                            <td>Dusun Manggabesar II, Desa/Kelurahan Walahar, Kec. Klari, Kab. Karawang, Provinsi Jawa Barat Kode Pos: 41371</td>
                                             <td>Industri Ransum Makanan Hewan</td>
-                                            <td>Sertifikasi jaminan produk halal difasilitasi BPJPH</td>
                                         </tr>
                                         <tr>
                                             <td>3</td>
                                             <td>Industri Konsentrat Makanan Hewan</td>
-                                            <td>Dusun Manggabesar II, Desa/Kelurahan Walahar, Kec. Klari, Kab. Karawang, Provinsi Jawa Barat Kode Pos: 41371</td>
                                             <td>Industri Konsentrat Makanan Hewan</td>
-                                            <td>Sertifikasi jaminan produk halal difasilitasi BPJPH</td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -194,58 +186,40 @@
                                         <tr>
                                             <th>No.</th>
                                             <th>Judul KBLI</th>
-                                            <th>Lokasi Usaha</th>
-                                            <th>Status</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
                                             <td>1</td>
                                             <td>Industri Pengolahan Lainnya YTDL</td>
-                                            <td>Dusun Manggabesar II, Desa/Kelurahan Walahar, Kec. Klari, Kab. Karawang, Provinsi Jawa Barat Kode Pos: 41371</td>
-                                            <td>Terbit</td>
                                         </tr>
                                         <tr>
                                             <td>2</td>
                                             <td>Pemulihan Material Barang Bukan Logam</td>
-                                            <td>Dusun Manggabesar II, Desa/Kelurahan Walahar, Kec. Klari, Kab. Karawang, Provinsi Jawa Barat Kode Pos: 41371</td>
-                                            <td>Terbit</td>
                                         </tr>
                                         <tr>
                                             <td>3</td>
                                             <td>Perdagangan Besar Barang Bekas Dan Sisa-sisa Tak Terpakai (Scrap)</td>
-                                            <td>Dusun Manggabesar II, Desa/Kelurahan Walahar, Kec. Klari, Kab. Karawang, Provinsi Jawa Barat Kode Pos:41371</td>
-                                            <td>Terbit</td>
                                         </tr>
                                         <tr>
                                             <td>4</td>
                                             <td>Industri Furnitur Lainnya</td>
-                                            <td>Dusun Manggabesar II, Desa/Kelurahan Walahar, Kec. Klari, Kab. Karawang, Provinsi Jawa Barat Kode Pos:41371</td>
-                                            <td>Terbit</td>
                                         </tr>
                                         <tr>
                                             <td>5</td>
                                             <td>Pengumpulan limbah dan sampah tidak berbahaya</td>
-                                            <td>Dusun Manggabesar II, Desa/Kelurahan Walahar, Kec. Klari, Kab. Karawang, Provinsi Jawa Barat Kode Pos:41371</td>
-                                            <td>Terbit</td>
                                         </tr>
                                         <tr>
                                             <td>6</td>
                                             <td>Pemulihan Material Barang Logam</td>
-                                            <td>Dusun Manggabesar II, Desa/Kelurahan Walahar, Kec. Klari, Kab. Karawang, Provinsi Jawa Barat Kode Pos:41371</td>
-                                            <td>Terbit</td>
                                         </tr>
                                         <tr>
                                             <td>7</td>
                                             <td>Pengerukan</td>
-                                            <td>Dusun Manggabesar II, Desa/Kelurahan Walahar, Kec. Klari, Kab. Karawang, Provinsi Jawa Barat Kode Pos:41371</td>
-                                            <td>Terbit</td>
                                         </tr>
                                         <tr>
                                             <td>8</td>
                                             <td>Angkutan Bermotor untuk Barang Khusus</td>
-                                            <td>Dusun Manggabesar II, Desa/Kelurahan Walahar, Kec. Klari, Kab. Karawang, Provinsi Jawa Barat Kode Pos:41371</td>
-                                            <td>Terbit</td>
                                         </tr>
                                     </tbody>
                                 </table>
